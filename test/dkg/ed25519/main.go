@@ -10,13 +10,13 @@ import (
 	"crypto/sha512"
 	"flag"
 	"fmt"
-	
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/sharing/v1"
+
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/sharing/v1"
 
 	"filippo.io/edwards25519"
-	"github.com/coinbase/kryptology/internal"
-	dkg "github.com/coinbase/kryptology/pkg/dkg/gennaro"
+	"github.com/dB2510/kryptology/internal"
+	dkg "github.com/dB2510/kryptology/pkg/dkg/gennaro"
 )
 
 const LIMIT = 4

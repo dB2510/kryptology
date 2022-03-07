@@ -1,9 +1,9 @@
 package p256
 
 import (
-	"github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core/curves/native"
-	"github.com/coinbase/kryptology/pkg/core/curves/native/p256/fp"
+	"github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core/curves/native"
+	"github.com/dB2510/kryptology/pkg/core/curves/native/p256/fp"
 	"sync"
 )
 

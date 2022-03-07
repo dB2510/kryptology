@@ -11,13 +11,13 @@ import (
 	"crypto/elliptic"
 	"encoding/json"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
 
-	"github.com/coinbase/kryptology/pkg/core"
-	"github.com/coinbase/kryptology/pkg/paillier"
+	"github.com/dB2510/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/paillier"
 )
 
 // ResponseProofParams encapsulates the values over which a range proof (2) is computed.

@@ -15,7 +15,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 )
 
 // Alice struct encoding Alice's state during one execution of the overall signing algorithm.

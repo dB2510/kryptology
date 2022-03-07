@@ -8,16 +8,16 @@ package participant
 
 import (
 	"crypto/elliptic"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/sharing/v1"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/sharing/v1"
 	"math/big"
 	"testing"
 
-	tt "github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core"
-	"github.com/coinbase/kryptology/pkg/paillier"
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/proof"
+	tt "github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/paillier"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/proof"
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/stretchr/testify/require"
 )

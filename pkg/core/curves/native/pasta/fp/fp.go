@@ -9,7 +9,7 @@ package fp
 import (
 	"encoding/binary"
 	"fmt"
-	"github.com/coinbase/kryptology/internal"
+	"github.com/dB2510/kryptology/internal"
 	"math/big"
 )
 

@@ -1,8 +1,8 @@
 package k256_test
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves/native"
-	"github.com/coinbase/kryptology/pkg/core/curves/native/k256"
+	"github.com/dB2510/kryptology/pkg/core/curves/native"
+	"github.com/dB2510/kryptology/pkg/core/curves/native/k256"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

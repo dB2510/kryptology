@@ -15,16 +15,16 @@ import (
 	"math/big"
 	"testing"
 
-	v0 "github.com/coinbase/kryptology/pkg/tecdsa/dkls/v0"
-	"github.com/coinbase/kryptology/pkg/tecdsa/dkls/v1/dkg"
+	v0 "github.com/dB2510/kryptology/pkg/tecdsa/dkls/v0"
+	"github.com/dB2510/kryptology/pkg/tecdsa/dkls/v1/dkg"
 	"github.com/btcsuite/btcd/btcec"
 
-	"github.com/coinbase/kryptology/pkg/core/protocol"
+	"github.com/dB2510/kryptology/pkg/core/protocol"
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/ot/extension/kos"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/ot/extension/kos"
 	"github.com/stretchr/testify/require"
 )
 

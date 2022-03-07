@@ -12,8 +12,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core/curves/native"
+	"github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core/curves/native"
 	"github.com/stretchr/testify/require"
 )
 

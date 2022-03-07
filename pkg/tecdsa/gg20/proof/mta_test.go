@@ -11,16 +11,16 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
 
-	crypto "github.com/coinbase/kryptology/pkg/core"
-	paillier "github.com/coinbase/kryptology/pkg/paillier"
+	crypto "github.com/dB2510/kryptology/pkg/core"
+	paillier "github.com/dB2510/kryptology/pkg/paillier"
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/stretchr/testify/require"
 
-	tt "github.com/coinbase/kryptology/internal"
+	tt "github.com/dB2510/kryptology/internal"
 )
 
 func TestRange1Proof(t *testing.T) {

@@ -16,8 +16,8 @@ import (
 	"fmt"
 	"github.com/pkg/errors"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/ot/base/simplest"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/ot/base/simplest"
 	"golang.org/x/crypto/sha3"
 )
 

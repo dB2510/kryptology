@@ -10,12 +10,12 @@ import (
 	"crypto/sha512"
 	"flag"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/sharing"
-	"github.com/coinbase/kryptology/pkg/ted25519/frost"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/sharing"
+	"github.com/dB2510/kryptology/pkg/ted25519/frost"
 
 	"filippo.io/edwards25519"
-	dkg "github.com/coinbase/kryptology/pkg/dkg/frost"
+	dkg "github.com/dB2510/kryptology/pkg/dkg/frost"
 )
 
 const LIMIT = 4

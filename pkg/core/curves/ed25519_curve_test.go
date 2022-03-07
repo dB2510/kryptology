@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	ed "filippo.io/edwards25519"
-	"github.com/coinbase/kryptology/internal"
+	"github.com/dB2510/kryptology/internal"
 	"github.com/stretchr/testify/require"
 )
 

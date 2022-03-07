@@ -12,7 +12,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/coinbase/kryptology/internal"
+	"github.com/dB2510/kryptology/internal"
 )
 
 // this implements the _coalesced_ multiplication, in which Alice and Bob perform 2 "parallel" multiplication protocols

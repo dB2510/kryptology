@@ -12,10 +12,10 @@ package gennaro2p
 import (
 	"crypto/elliptic"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/sharing/v1"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/sharing/v1"
 
-	"github.com/coinbase/kryptology/pkg/dkg/gennaro"
+	"github.com/dB2510/kryptology/pkg/dkg/gennaro"
 	"github.com/pkg/errors"
 )
 

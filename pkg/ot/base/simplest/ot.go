@@ -26,8 +26,8 @@ import (
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/zkp/schnorr"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/zkp/schnorr"
 	"github.com/pkg/errors"
 )
 

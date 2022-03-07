@@ -9,8 +9,8 @@ package proof
 import (
 	"math/big"
 
-	"github.com/coinbase/kryptology/internal"
-	core "github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/internal"
+	core "github.com/dB2510/kryptology/pkg/core"
 )
 
 // inc computes the incremented commitment in the extension ring:

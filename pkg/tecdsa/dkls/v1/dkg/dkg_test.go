@@ -9,9 +9,9 @@ package dkg
 import (
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/ot/extension/kos"
+	"github.com/dB2510/kryptology/pkg/ot/extension/kos"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 
 	"github.com/stretchr/testify/require"
 )

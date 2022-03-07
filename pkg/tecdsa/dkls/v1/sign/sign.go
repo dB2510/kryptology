@@ -13,17 +13,17 @@ import (
 	"crypto/ecdsa"
 	"crypto/rand"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/ot/extension/kos"
-	"github.com/coinbase/kryptology/pkg/tecdsa/dkls/v1/dkg"
-	"github.com/coinbase/kryptology/pkg/zkp/schnorr"
+	"github.com/dB2510/kryptology/pkg/ot/extension/kos"
+	"github.com/dB2510/kryptology/pkg/tecdsa/dkls/v1/dkg"
+	"github.com/dB2510/kryptology/pkg/zkp/schnorr"
 	"github.com/gtank/merlin"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/sha3"
 	"hash"
 	"math/big"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/ot/base/simplest"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/ot/base/simplest"
 )
 
 const multiplicationCount = 2

@@ -19,7 +19,7 @@ import (
 	cryptorand "crypto/rand"
 	"crypto/sha512"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"io"
 	"strconv"
 )

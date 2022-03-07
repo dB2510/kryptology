@@ -12,8 +12,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	v1 "github.com/coinbase/kryptology/pkg/sharing/v1"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	v1 "github.com/dB2510/kryptology/pkg/sharing/v1"
 	"github.com/stretchr/testify/require"
 )
 

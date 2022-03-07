@@ -9,9 +9,9 @@ package frost
 import (
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	dkg "github.com/coinbase/kryptology/pkg/dkg/frost"
-	"github.com/coinbase/kryptology/pkg/sharing"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	dkg "github.com/dB2510/kryptology/pkg/dkg/frost"
+	"github.com/dB2510/kryptology/pkg/sharing"
 	"github.com/stretchr/testify/require"
 )
 

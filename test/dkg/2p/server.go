@@ -11,7 +11,7 @@ import (
 	"log"
 	"os"
 
-	dkg "github.com/coinbase/kryptology/pkg/dkg/gennaro2p"
+	dkg "github.com/dB2510/kryptology/pkg/dkg/gennaro2p"
 	"github.com/pkg/errors"
 )
 

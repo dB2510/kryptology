@@ -2,10 +2,10 @@ package p256_test
 
 import (
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/core/curves/native"
-	"github.com/coinbase/kryptology/pkg/core/curves/native/p256"
-	"github.com/coinbase/kryptology/pkg/core/curves/native/p256/fp"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves/native"
+	"github.com/dB2510/kryptology/pkg/core/curves/native/p256"
+	"github.com/dB2510/kryptology/pkg/core/curves/native/p256/fp"
 	"github.com/stretchr/testify/require"
 	"testing"
 )
