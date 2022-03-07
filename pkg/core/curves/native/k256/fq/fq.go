@@ -7,7 +7,7 @@
 package fq
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves/native"
+	"github.com/dB2510/kryptology/pkg/core/curves/native"
 	"math/big"
 	"sync"
 )

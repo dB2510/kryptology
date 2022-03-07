@@ -11,13 +11,13 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
 
-	tt "github.com/coinbase/kryptology/internal"
-	crypto "github.com/coinbase/kryptology/pkg/core"
-	paillier "github.com/coinbase/kryptology/pkg/paillier"
+	tt "github.com/dB2510/kryptology/internal"
+	crypto "github.com/dB2510/kryptology/pkg/core"
+	paillier "github.com/dB2510/kryptology/pkg/paillier"
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/stretchr/testify/require"
 )

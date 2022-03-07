@@ -9,12 +9,12 @@ package curves
 import (
 	"bytes"
 	"crypto/elliptic"
-	"github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/core"
 	"math/big"
 	"testing"
 
 	"github.com/btcsuite/btcd/btcec"
-	tt "github.com/coinbase/kryptology/internal"
+	tt "github.com/dB2510/kryptology/internal"
 	"github.com/stretchr/testify/require"
 )
 

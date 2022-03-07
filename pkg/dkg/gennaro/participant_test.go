@@ -7,12 +7,12 @@
 package gennaro
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 	"testing"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/coinbase/kryptology/internal"
+	"github.com/dB2510/kryptology/internal"
 	"github.com/stretchr/testify/require"
 )
 

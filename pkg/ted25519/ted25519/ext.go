@@ -8,7 +8,7 @@ package ted25519
 
 import (
 	"crypto/sha512"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"strconv"
 )
 

@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"testing"
 
-	core "github.com/coinbase/kryptology/pkg/core/curves"
+	core "github.com/dB2510/kryptology/pkg/core/curves"
 
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/stretchr/testify/require"

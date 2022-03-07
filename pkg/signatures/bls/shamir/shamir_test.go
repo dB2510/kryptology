@@ -11,7 +11,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/signatures/bls/finitefield"
+	"github.com/dB2510/kryptology/pkg/signatures/bls/finitefield"
 	"github.com/stretchr/testify/require"
 )
 

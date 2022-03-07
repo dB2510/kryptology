@@ -7,8 +7,8 @@
 package frost
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/sharing"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/sharing"
 	"testing"
 
 	"github.com/stretchr/testify/require"

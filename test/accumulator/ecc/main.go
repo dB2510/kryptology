@@ -10,8 +10,8 @@ import (
 	"bufio"
 	"encoding/hex"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/accumulator"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/accumulator"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"os"
 )
 

@@ -11,8 +11,8 @@ import (
 	"math/big"
 
 	"git.sr.ht/~sircmpwn/go-bare"
-	"github.com/coinbase/kryptology/internal"
-	mod "github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/internal"
+	mod "github.com/dB2510/kryptology/pkg/core"
 )
 
 type decryptionKeyMarshal struct {

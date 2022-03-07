@@ -8,13 +8,13 @@ package sign
 
 import (
 	"crypto/rand"
-	"github.com/coinbase/kryptology/pkg/tecdsa/dkls/v1/dkg"
+	"github.com/dB2510/kryptology/pkg/tecdsa/dkls/v1/dkg"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/ot/base/simplest"
-	"github.com/coinbase/kryptology/pkg/ot/extension/kos"
-	"github.com/coinbase/kryptology/pkg/ot/ottest"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/ot/base/simplest"
+	"github.com/dB2510/kryptology/pkg/ot/extension/kos"
+	"github.com/dB2510/kryptology/pkg/ot/ottest"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/sha3"
 )

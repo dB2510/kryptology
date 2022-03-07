@@ -1,15 +1,15 @@
 package v1
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/protocol"
-	"github.com/coinbase/kryptology/pkg/tecdsa/dkls/v1/dkg"
-	"github.com/coinbase/kryptology/pkg/tecdsa/dkls/v1/sign"
+	"github.com/dB2510/kryptology/pkg/core/protocol"
+	"github.com/dB2510/kryptology/pkg/tecdsa/dkls/v1/dkg"
+	"github.com/dB2510/kryptology/pkg/tecdsa/dkls/v1/sign"
 
 	"golang.org/x/crypto/sha3"
 
 	"github.com/pkg/errors"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 )
 
 // AliceDkg DKLS DKG implementation that satisfies the protocol iterator interface.

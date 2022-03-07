@@ -7,7 +7,7 @@
 package common
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 )
 
 // Commitment represents a point Pedersen commitment of one or more

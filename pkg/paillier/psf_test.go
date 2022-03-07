@@ -12,10 +12,10 @@ import (
 	"math/big"
 	"testing"
 
-	curves2 "github.com/coinbase/kryptology/pkg/core/curves"
+	curves2 "github.com/dB2510/kryptology/pkg/core/curves"
 
-	"github.com/coinbase/kryptology/internal"
-	crypto "github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/internal"
+	crypto "github.com/dB2510/kryptology/pkg/core"
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/stretchr/testify/require"
 )

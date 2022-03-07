@@ -23,7 +23,7 @@ import (
 	cryptorand "crypto/rand"
 	"filippo.io/edwards25519"
 	"fmt"
-	"github.com/coinbase/kryptology/internal"
+	"github.com/dB2510/kryptology/internal"
 	"golang.org/x/crypto/sha3"
 	"io"
 	"strconv"

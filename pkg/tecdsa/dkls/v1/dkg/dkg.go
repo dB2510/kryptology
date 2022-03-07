@@ -13,10 +13,10 @@ import (
 	"crypto/rand"
 	"github.com/gtank/merlin"
 
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/ot/base/simplest"
-	"github.com/coinbase/kryptology/pkg/ot/extension/kos"
-	"github.com/coinbase/kryptology/pkg/zkp/schnorr"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/ot/base/simplest"
+	"github.com/dB2510/kryptology/pkg/ot/extension/kos"
+	"github.com/dB2510/kryptology/pkg/zkp/schnorr"
 	"github.com/pkg/errors"
 )
 
