@@ -7,7 +7,7 @@
 package common
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 )
 
 // Nonce is used for zero-knowledge proofs to prevent replay attacks

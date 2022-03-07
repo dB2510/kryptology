@@ -11,7 +11,7 @@
 package ted25519
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

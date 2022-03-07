@@ -9,11 +9,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	sharing "github.com/coinbase/kryptology/pkg/sharing/v1"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	sharing "github.com/dB2510/kryptology/pkg/sharing/v1"
 
-	dkg "github.com/coinbase/kryptology/pkg/dkg/gennaro"
-	bls "github.com/coinbase/kryptology/pkg/signatures/bls/bls_sig"
+	dkg "github.com/dB2510/kryptology/pkg/dkg/gennaro"
+	bls "github.com/dB2510/kryptology/pkg/signatures/bls/bls_sig"
 )
 
 const LIMIT = 4

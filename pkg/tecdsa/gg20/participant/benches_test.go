@@ -9,14 +9,14 @@ package participant
 import (
 	"crypto/elliptic"
 	"encoding/json"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/coinbase/kryptology/pkg/core"
-	"github.com/coinbase/kryptology/pkg/paillier"
+	"github.com/dB2510/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/paillier"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -9,10 +9,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	dkg "github.com/coinbase/kryptology/pkg/dkg/frost"
-	"github.com/coinbase/kryptology/pkg/sharing"
-	bls "github.com/coinbase/kryptology/pkg/signatures/bls/bls_sig"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	dkg "github.com/dB2510/kryptology/pkg/dkg/frost"
+	"github.com/dB2510/kryptology/pkg/sharing"
+	bls "github.com/dB2510/kryptology/pkg/signatures/bls/bls_sig"
 )
 
 const LIMIT = 4

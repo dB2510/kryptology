@@ -11,7 +11,7 @@ import (
 	"crypto/sha256"
 	"crypto/subtle"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/core"
 	bls12377 "github.com/consensys/gnark-crypto/ecc/bls12-377"
 	"io"
 	"math/big"

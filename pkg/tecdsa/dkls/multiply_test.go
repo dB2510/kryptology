@@ -8,7 +8,7 @@ package dkls
 
 import (
 	"crypto/rand"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 	"testing"
 

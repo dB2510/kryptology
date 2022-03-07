@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core"
 )
 
 // PaillierPrimeBits is the number of bits used to generate Paillier Safe Primes.

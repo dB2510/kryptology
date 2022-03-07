@@ -8,13 +8,13 @@ package participant
 
 import (
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/sharing/v1"
+	"github.com/dB2510/kryptology/pkg/sharing/v1"
 
-	"github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core"
-	"github.com/coinbase/kryptology/pkg/paillier"
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/proof"
+	"github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/paillier"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/proof"
 )
 
 // DkgRound2Bcast contains value that will be echo broadcast to all other players.

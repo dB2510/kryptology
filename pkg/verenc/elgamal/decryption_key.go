@@ -11,9 +11,9 @@ import (
 	"crypto/cipher"
 	"fmt"
 	"git.sr.ht/~sircmpwn/go-bare"
-	"github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 )
 

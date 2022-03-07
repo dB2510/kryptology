@@ -14,7 +14,7 @@ package sharing
 
 import (
 	crand "crypto/rand"
-	curves "github.com/coinbase/kryptology/pkg/core/curves"
+	curves "github.com/dB2510/kryptology/pkg/core/curves"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

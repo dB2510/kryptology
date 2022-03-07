@@ -12,7 +12,7 @@ import (
 	"crypto/subtle"
 	"fmt"
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/core"
 	"io"
 	"math/big"
 )

@@ -9,7 +9,7 @@ package ted25519
 import (
 	"crypto/rand"
 	"crypto/sha256"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"golang.org/x/crypto/hkdf"
 	"io"
 )

@@ -7,7 +7,7 @@
 package v1
 
 import (
-	core "github.com/coinbase/kryptology/pkg/core/curves"
+	core "github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 	"testing"
 

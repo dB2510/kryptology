@@ -8,9 +8,9 @@ package frost
 
 import (
 	"fmt"
-	"github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/dkg/frost"
+	"github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/dkg/frost"
 )
 
 // Signer is a tSchnorr player performing the signing operation.

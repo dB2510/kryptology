@@ -8,12 +8,12 @@ package v1
 
 import (
 	"crypto/sha512"
-	core "github.com/coinbase/kryptology/pkg/core/curves"
+	core "github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 	"testing"
 
 	"filippo.io/edwards25519"
-	"github.com/coinbase/kryptology/internal"
+	"github.com/dB2510/kryptology/internal"
 	"github.com/stretchr/testify/assert"
 )
 

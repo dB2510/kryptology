@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"math/big"
 
-	bls12381 "github.com/coinbase/kryptology/pkg/core/curves/native/bls12-381"
-	"github.com/coinbase/kryptology/pkg/signatures/bls/finitefield"
+	bls12381 "github.com/dB2510/kryptology/pkg/core/curves/native/bls12-381"
+	"github.com/dB2510/kryptology/pkg/signatures/bls/finitefield"
 )
 
 // Implement BLS signatures on the BLS12-381 curve

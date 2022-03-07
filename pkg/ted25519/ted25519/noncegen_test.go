@@ -7,8 +7,8 @@
 package ted25519
 
 import (
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/sharing/v1"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/sharing/v1"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"math/big"

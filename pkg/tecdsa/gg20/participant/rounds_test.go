@@ -10,20 +10,20 @@ import (
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"encoding/json"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/proof"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/proof"
 	"github.com/stretchr/testify/require"
 
 	"github.com/stretchr/testify/assert"
 
 	"github.com/btcsuite/btcd/btcec"
-	tt "github.com/coinbase/kryptology/internal"
-	"github.com/coinbase/kryptology/pkg/core"
-	"github.com/coinbase/kryptology/pkg/paillier"
+	tt "github.com/dB2510/kryptology/internal"
+	"github.com/dB2510/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/paillier"
 )
 
 var (

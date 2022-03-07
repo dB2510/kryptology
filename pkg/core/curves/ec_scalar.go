@@ -12,14 +12,14 @@ import (
 	"crypto/sha512"
 	"fmt"
 	"github.com/bwesterb/go-ristretto"
-	"github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/pkg/core"
 	"io"
 	"math/big"
 
 	"filippo.io/edwards25519"
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/coinbase/kryptology/internal"
-	bls12381 "github.com/coinbase/kryptology/pkg/core/curves/native/bls12-381"
+	"github.com/dB2510/kryptology/internal"
+	bls12381 "github.com/dB2510/kryptology/pkg/core/curves/native/bls12-381"
 )
 
 type EcScalar interface {

@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"github.com/bwesterb/go-ristretto"
 	ed "github.com/bwesterb/go-ristretto/edwards25519"
-	"github.com/coinbase/kryptology/internal"
+	"github.com/dB2510/kryptology/internal"
 	"io"
 	"math/big"
 )

@@ -11,9 +11,9 @@ import (
 	crand "crypto/rand"
 	"encoding/hex"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
-	"github.com/coinbase/kryptology/pkg/sharing/v1"
-	"github.com/coinbase/kryptology/pkg/verenc/elgamal"
+	"github.com/dB2510/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/sharing/v1"
+	"github.com/dB2510/kryptology/pkg/verenc/elgamal"
 )
 
 func main() {

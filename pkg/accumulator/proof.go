@@ -11,7 +11,7 @@ import (
 	crand "crypto/rand"
 	"fmt"
 	"git.sr.ht/~sircmpwn/go-bare"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 )
 
 // This file implements the zero knowledge proof of knowledge protocol

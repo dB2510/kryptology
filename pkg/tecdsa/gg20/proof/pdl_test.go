@@ -8,15 +8,15 @@ package proof
 
 import (
 	"encoding/json"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"testing"
 
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
 
 	"github.com/btcsuite/btcd/btcec"
-	tt "github.com/coinbase/kryptology/internal"
-	crypto "github.com/coinbase/kryptology/pkg/core"
-	paillier "github.com/coinbase/kryptology/pkg/paillier"
+	tt "github.com/dB2510/kryptology/internal"
+	crypto "github.com/dB2510/kryptology/pkg/core"
+	paillier "github.com/dB2510/kryptology/pkg/paillier"
 	"github.com/stretchr/testify/assert"
 )
 

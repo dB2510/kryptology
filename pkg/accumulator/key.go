@@ -9,7 +9,7 @@ package accumulator
 import (
 	"fmt"
 	"git.sr.ht/~sircmpwn/go-bare"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 )
 
 // SecretKey is the secret alpha only held by the accumulator manager.

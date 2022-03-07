@@ -10,8 +10,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/coinbase/kryptology/internal"
-	crypto "github.com/coinbase/kryptology/pkg/core"
+	"github.com/dB2510/kryptology/internal"
+	crypto "github.com/dB2510/kryptology/pkg/core"
 	"github.com/stretchr/testify/require"
 )
 

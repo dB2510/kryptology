@@ -14,13 +14,13 @@ import (
 	"crypto/elliptic"
 	"encoding/json"
 	"fmt"
-	"github.com/coinbase/kryptology/pkg/core/curves"
+	"github.com/dB2510/kryptology/pkg/core/curves"
 	"math/big"
 
-	"github.com/coinbase/kryptology/pkg/tecdsa/gg20/dealer"
+	"github.com/dB2510/kryptology/pkg/tecdsa/gg20/dealer"
 
-	crypto "github.com/coinbase/kryptology/pkg/core"
-	paillier "github.com/coinbase/kryptology/pkg/paillier"
+	crypto "github.com/dB2510/kryptology/pkg/core"
+	paillier "github.com/dB2510/kryptology/pkg/paillier"
 )
 
 // PdlProofParams encapsulates the parameters for ProvePDL in

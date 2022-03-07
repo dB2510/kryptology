@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/coinbase/kryptology/pkg/signatures/bls/finitefield"
+	"github.com/dB2510/kryptology/pkg/signatures/bls/finitefield"
 	"github.com/pkg/errors"
 )
 

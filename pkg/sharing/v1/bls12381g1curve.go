@@ -12,7 +12,7 @@ import (
 	"math/big"
 	"sync"
 
-	bls12381 "github.com/coinbase/kryptology/pkg/core/curves/native/bls12-381"
+	bls12381 "github.com/dB2510/kryptology/pkg/core/curves/native/bls12-381"
 )
 
 const g1pointSize = 48
